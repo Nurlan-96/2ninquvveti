@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\bin\Debug\net6.0\2ninquvveti.exe
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\bin\Debug\net6.0\2ninquvveti.deps.json
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\bin\Debug\net6.0\2ninquvveti.runtimeconfig.json
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\bin\Debug\net6.0\2ninquvveti.dll
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\bin\Debug\net6.0\2ninquvveti.pdb
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\2ninquvveti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\2ninquvveti.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\2ninquvveti.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\2ninquvveti.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\2ninquvveti.dll
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\refint\2ninquvveti.dll
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\2ninquvveti.pdb
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\2ninquvveti.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\Desktop\2ninquvveti\2ninquvveti\obj\Debug\net6.0\ref\2ninquvveti.dll
